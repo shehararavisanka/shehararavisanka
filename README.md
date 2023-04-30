@@ -9,6 +9,6 @@
  
  Since 2019 I`m leaning new things in Software world. Curruntly I`m following Nest js with Micro Services. I always happy to accepts challenges in software Development.
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shehararavisanka)](https://github.com/anuraghazra/github-readme-stats)
+ [![shehara's GitHub stats](https://github-readme-stats.vercel.app/api?username=shehararavisanka)]
  
  
